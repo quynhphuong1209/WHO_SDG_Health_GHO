@@ -1,0 +1,12 @@
+name: WHO_SDG_Health_GHO
+title: WHO_SDG_Health_GHO
+username: quynhphuong
+account: quynhphuong
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14380115
+bundleId: 10028711
+url: https://quynhphuong.shinyapps.io/WHO_SDG_Health_GHO/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
